@@ -533,8 +533,6 @@ public class BST<T extends Comparable<? super T>> {
         if (curr == null) {
             return;
         } else {
-            System.out.println(curr.getData());
-
             if (kLargestList.size() < k) {
                 kLargestHelper(k, curr.getRight(), kLargestList);
             }
