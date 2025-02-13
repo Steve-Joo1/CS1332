@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>10.21.1</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds">
+      <option value="38108167-3036-4273-a67b-6db425a6b9f6" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="38108167-3036-4273-a67b-6db425a6b9f6" type="LOCAL_FILE" scope="All" description="1332 CheckStyle">$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Georgia Tech/Spring 2025/CS 1332/Checkstyle/CS1332-checkstyle.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
